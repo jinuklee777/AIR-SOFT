@@ -36,6 +36,7 @@ export const HomeLink = styled(Link)`
 
 export const HomeButton = styled.button`
   margin-top: 20px;
+  margin-bottom: 20px;
   padding: 10px;
   background-color: ${(props) => (props.disabled ? '#ccc' : '#90B1C6')};
   color: white;
