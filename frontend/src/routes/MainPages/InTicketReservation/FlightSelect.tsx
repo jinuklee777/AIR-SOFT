@@ -52,7 +52,6 @@ export const SubContainer2 = styled.div`
 
 export const FlightList = styled.ul`
   width: 80%;
-  overflow: auto;
 `;
 
 export const Flight = styled.li`
